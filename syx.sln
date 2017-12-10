@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syx.CSharp", "syx.CSharp.csproj", "{4D4404BC-4889-C047-D2DD-8FCCD0909FCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4404BC-4889-C047-D2DD-8FCCD0909FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4404BC-4889-C047-D2DD-8FCCD0909FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4404BC-4889-C047-D2DD-8FCCD0909FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4404BC-4889-C047-D2DD-8FCCD0909FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
